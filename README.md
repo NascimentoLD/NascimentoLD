@@ -11,5 +11,3 @@
   <img align="center" alt="LD-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="LD-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-
-![snake gif](https://github.com/nascimentold/nascimentold/blob/output/github-contribution-grid-snake.svg)
